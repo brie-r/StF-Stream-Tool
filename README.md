@@ -8,5 +8,6 @@ Needs work
 - Nix VS scene
 - Rename files with "RoA" in them
 - Fixing "gray" portraits for characters who have an alt skin instead (looking at you, cat)
+- Releases
 
 I might (only might) do that work but if you want it done, feel free to do it yourself and submit a PR.
