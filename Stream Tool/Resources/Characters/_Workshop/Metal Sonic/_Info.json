@@ -1,0 +1,28 @@
+{
+    "skinList": [
+        {"name": "Default"},
+        {"name": "Gray"}
+    ],
+    "scoreboard": {
+        "neutral": {
+            "x": 5,
+            "y": 53,
+            "scale": 2.5
+        }
+    },
+    "vsScreen": {
+        "neutral": {
+            "x": -550,
+            "y": 175,
+            "scale": 1
+        },
+        "background": "../Amy"
+    },
+    "gui": {
+        "neutral": {
+            "x": 0,
+            "y": 32,
+            "scale": 3.5
+        }
+    }
+}
