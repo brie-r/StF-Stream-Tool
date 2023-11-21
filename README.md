@@ -1,4 +1,4 @@
-# WIP
+# Sonic the Fighters stream tool (wip)
 
 Sonic the Fighters stream tool that does the same as [the RoA original](https://github.com/Readek/RoA-Stream-Tool)
 
